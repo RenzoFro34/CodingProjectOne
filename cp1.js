@@ -31,5 +31,4 @@ form.reset();
     if (e.target.matches("input, textarea")) {
       console.log("Interacting with:", e.target.id);
       e.stopPropagation();
-
     }});
