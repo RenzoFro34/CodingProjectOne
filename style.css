@@ -1,0 +1,6 @@
+#user-tooltip, #fb-tooltip, #email-tooltip {
+    display: none;
+    background-color: black;
+    color: white;
+    margin-left: 400px;
+}
